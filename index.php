@@ -102,11 +102,11 @@ $message_sent=true;
               href="#projects"
               type="button"
               class="btn btn-two"
-              style="font-size: 3rem"
+             style="font-size: 2.5rem;"
             >
 
 
-              <span>View My Projects&nbsp; &nbsp; &nbsp; &nbsp;</span>
+              <span>View My Projects&nbsp; &nbsp; </span>
             </a>
           </div>
         </div>
@@ -316,7 +316,12 @@ npm,
               <h2>Web App</h2>
           
               <p>
-               Node.js, Express.js, Passport.js to authenticate a user via REST-endpoint with password and email(or google account).After loggin-in you can chat anonymously with other people in this web app.</p>
+               Node.js, Express.js, Passport.js to authenticate a user via REST-endpoint with password and email(or google account).</p>
+              <p>
+                 After loggin-in you can chat anonymously with other people in this web app.
+              </p>
+              
+              
                <p>HTML5,CSS,JavaScript,jQuery,EJS,Bootstrap,
               MongoDB, Mongoose, Object Data Mapping (ODM) for the database.</p>
                
@@ -494,11 +499,8 @@ endif;
     <br>
 
     <h2>&nbsp; &nbsp;Let's get to know each other</h3>
-      <br>
-      <br>
-      <br>
-      <br>
      
+<br>
       <p>(Scan the QR code with your iPhone or a QR code reader.)</p>
     </div>
   </div>
