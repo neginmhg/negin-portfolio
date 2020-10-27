@@ -18,7 +18,6 @@ a {
   width: 100%;
   display: flex;
   align-items: center;
-  /* justify-content: center; */
 }
 img {
   height: 100%;
@@ -26,6 +25,7 @@ img {
   object-fit: cover;
 }
 p {
+  font-family: "Montserrat", sans-serif;
   color: black;
   font-size: 1.4rem;
   margin-top: 5px;
@@ -63,6 +63,8 @@ h3 {
 .brand h1 {
   font-size: 2.5rem;
   text-transform: uppercase;
+  font-family: "Montserrat", sans-serif;
+
   color: white;
   text-shadow: 0 2px 3px #747474, 1px 3px 4px #222, 0 8px 3px #474747,
     0 11px 4px #747474, 0 14px 4px #565656, 0 17px 4px #343434,
@@ -131,6 +133,7 @@ h3 {
   text-transform: uppercase;
   padding: 20px;
   display: block;
+  font-family: "Montserrat", sans-serif;
 }
 #header .nav-list ul a::after {
   content: attr(data-after);
