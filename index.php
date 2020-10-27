@@ -401,7 +401,8 @@ https://www.youtube.com/watch?v=7Gym2XVcA5A
       <div class="about container"> 
         <div class="col-left">
           <div class="about-img">
-            <img src="./img/me.jpeg" alt="img" style="border-radius: 9%;
+            <img src="./img/negin.jpg" alt="me" style="border-radius: 15%; 
+            
              justify-content: center;" />         
           </div>
         </div>
