@@ -542,7 +542,7 @@ h4 {
 }
 /* End Projects section */
 /* ------------------------------------- */
-/* QR */
+/* QR  section*/
 .qr {
   letter-spacing: 0.4rem;
 }
@@ -686,6 +686,7 @@ h4 {
 /* view my project button */
 div[class*="box"] {
   height: 33.33%;
+
   width: 100%;
   display: flex;
   justify-content: center;
@@ -693,14 +694,14 @@ div[class*="box"] {
 }
 .box-2 {
   font-family: monospace;
-  font-size: 10rem;
 }
 .btn {
   background-color: #3c3c3c;
   line-height: 50px;
   height: 50px;
   text-align: center;
-  width: 275px;
+  width: 240px;
+  justify-content: center;
   cursor: pointer;
 }
 .btn-two {
@@ -984,7 +985,8 @@ div[class*="box"] {
 }
 
 /* media query mobile  */
-@media only screen and (max-width: 600px) and (min-width: 100) {
+
+@media only screen and (max-width: 600px) {
   /* hero media */
   #hero .hero {
     padding-left: 25%;
@@ -993,12 +995,22 @@ div[class*="box"] {
     padding-right: 75%;
   }
   .box-2 {
-    padding: 0%;
+    justify-content: center;
+    font-size: 0.5rem;
+    text-align: left;
+    /* padding: 0%; */
   }
   .btn {
-    margin-right: 20%;
+    margin-right: 5%;
   }
   /* end hero media */
+  /* qr media */
+  .qr-text {
+    margin-left: 10%;
+
+    justify-content: center;
+  }
+  /* end qr media */
 }
 
 @media only screen and (min-width: 1200px) {
