@@ -420,14 +420,13 @@ https://www.youtube.com/watch?v=7Gym2XVcA5A
   <br>
           As a self-learner, I enjoy being challenged and engaged with projects that require me to work outside my comfort and knowledge set. I do lots of full stack development projects both myself and in teams.
           <br>
-          Should you have any other questions, please do not hesitate to contact me.
-
-
-
-            
+          Should you have any other questions, please do not hesitate to contact me.   
           </p>
-          <a class="cta" href="#qr" data-after="qr" rel="nofollow noopener">LinkedIn Connection
-          </a>        
+         
+            
+          <a class="cta" href="#qr" data-after="qr" rel="nofollow noopener">My LinkedIn 
+          </a>     
+            
         </div>
       </div>
     </section> 
@@ -519,7 +518,7 @@ endif;
         <div class="social-icon">
           
           <div class="social-item">
-            <!-- 96px -->
+            <!-- 128px -->
             <a href="https://www.linkedin.com/in/negin-mahrang"
               ><img       
                src="https://img.icons8.com/doodle/128/000000/linkedin--v2.png"
@@ -539,11 +538,24 @@ endif;
               <img src="https://img.icons8.com/doodle/192/000000/facebook-new.png"/>
             </a>
           </div>
-          
+          <div class="social-item">
+            <a href="mailto:negin_mahrang@yahoo.com"
+              >
+             
+              <img src="https://img.icons8.com/clouds/200/000000/email.png"/>
+            </a>
+          </div>
+         
          
         </div>
-        <p>Made with ❤️ from California</p>
-        <p>Copyright © 2020 . All rights reserved.</p>
+      <p style="font-weight:700">Made with ❤️  by Negin Mahrang</p>
+        <p style="font-weight:700">California</p>
+        <br>
+        <br>
+        <br>
+        <br>
+        <p > Copyright © 2020 . All rights reserved.</p>
+        <p style="color:gray;">App icon by <a style="color:gray;"href="https://icons8.com/">Icons8</a></p>
       </div>
     </section>
     <!-- End Footer -->
