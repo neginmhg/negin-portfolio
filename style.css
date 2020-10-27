@@ -33,6 +33,18 @@ p {
   font-weight: 300;
   letter-spacing: 0.05rem;
 }
+h3 {
+  font-size: 4rem;
+
+  font-family: "Montserrat", sans-serif;
+  background-color: #17db38;
+  text-align: center;
+  text-transform: uppercase;
+
+  margin: 0 20%;
+
+  padding: 1% 20%;
+}
 .section-title {
   font-size: 4rem;
   font-weight: 300;
@@ -357,23 +369,23 @@ star.star3 {
 .bg1 {
   background-image: url(./img/skills/web.jpg);
   background-size: cover;
-  opacity: 0.8;
+  opacity: 0.9;
 }
 
 .bg2 {
   background-image: url(./img/skills/app.jpg);
   background-size: cover;
-  opacity: 0.8;
+  opacity: 0.9;
 }
 .bg3 {
   background-image: url(./img/skills/cloud.jpg);
   background-size: cover;
-  opacity: 0.8;
+  opacity: 0.9;
 }
 .bg4 {
   background-image: url(./img/skills/software.jpg);
   background-size: cover;
-  opacity: 0.8;
+  opacity: 0.9;
 }
 /*  */
 .bgb1 {
@@ -429,7 +441,7 @@ star.star3 {
 .side-one,
 .side-two {
   backface-visibility: hidden;
-  transition: 1s;
+  transition: 4.5s;
   transform-style: preserve-3d;
 }
 
@@ -440,7 +452,6 @@ star.star3 {
 
 .side-two .card a {
   font-size: 18px;
-  color: brown;
 }
 h4 {
   color: rgb(255, 255, 255);
@@ -527,7 +538,7 @@ h4 {
   transition: 0.3s ease transform;
 }
 #projects .project-item:hover .project-img img {
-  transform: scale(1.1);
+  transform: scale(1.2);
 }
 /* End Projects section */
 /* ------------------------------------- */
@@ -599,6 +610,7 @@ h4 {
   height: 100%;
   width: 100%;
   border: 5.5px solid #e8dcdc;
+
   z-index: -1;
 }
 #about .cta {
@@ -630,7 +642,7 @@ h4 {
 /* ------------------------------------- */
 /* Footer */
 #footer {
-  background-image: linear-gradient(60deg, #00003f 0%, #26263c 100%);
+  background-image: linear-gradient(60deg, #fbc9c9 0%, #53537c 100%);
 }
 #footer .footer {
   min-height: 200px;
@@ -688,7 +700,7 @@ div[class*="box"] {
   line-height: 50px;
   height: 50px;
   text-align: center;
-  width: 350px;
+  width: 275px;
   cursor: pointer;
 }
 .btn-two {
@@ -713,7 +725,7 @@ div[class*="box"] {
   height: 100%;
   z-index: 1;
   transition: all 0.5s;
-  border: 1px solid rgba(255, 255, 255, 0.2);
+  border: 3px solid rgba(255, 255, 255, 0.2);
   background-color: rgba(255, 255, 255, 0.1);
 }
 .btn-two::after {
@@ -725,7 +737,7 @@ div[class*="box"] {
   height: 100%;
   z-index: 1;
   transition: all 0.5s;
-  border: 1px solid rgba(255, 255, 255, 0.2);
+  border: 3px solid rgba(255, 255, 255, 0.2);
   background-color: rgba(255, 255, 255, 0.1);
 }
 .btn-two:hover::before {
@@ -972,7 +984,7 @@ div[class*="box"] {
 }
 
 /* media query mobile  */
-@media only screen and (max-width: 600px) and (min-width: 250) {
+@media only screen and (max-width: 600px) and (min-width: 100) {
   /* hero media */
   #hero .hero {
     padding-left: 25%;
