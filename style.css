@@ -602,17 +602,17 @@ h4 {
   position: relative;
   border: 10px solid white;
 }
-#about .col-left .about-img::after {
+/* #about .col-left .about-img::after {
   content: "";
   position: absolute;
   left: -33px;
   top: 19px;
   height: 100%;
   width: 100%;
-  border: 5.5px solid #e8dcdc;
 
+  border: 5.5px solid #e8dcdc;
   z-index: -1;
-}
+} */
 #about .cta {
   margin-top: 2%;
   margin-bottom: 2%;
