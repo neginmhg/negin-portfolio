@@ -416,7 +416,7 @@ https://www.youtube.com/watch?v=7Gym2XVcA5A
            As a skilled leader I have proven my ability to motivate, educate, and manage a team of professionals to build software programs in Agile framework and manage our time effectively. 
 <br>
          
-            Academically, my outstanding performance, especially in mathematics and computer science courses, proved strongtechnical and analytical aptitude. 
+            Academically, my outstanding performance, especially in mathematics and computer science courses, proved strong technical and analytical aptitude. 
   <br>
           As a self-learner, I enjoy being challenged and engaged with projects that require me to work outside my comfort and knowledge set. I do lots of full stack development projects both myself and in teams.
           <br>
