@@ -106,7 +106,7 @@ $message_sent=true;
             >
 
 
-              <span>View My Projects </span>
+              <span>View My Projects&nbsp; &nbsp; &nbsp; &nbsp;</span>
             </a>
           </div>
         </div>
@@ -406,12 +406,14 @@ https://www.youtube.com/watch?v=7Gym2XVcA5A
           <p>
             I am a third year Computer Science student from California State University, Sacramento.
 
+            <br>
+           As a skilled leader I have proven my ability to motivate, educate, and manage a team of professionals to build software programs in Agile framework and manage our time effectively. 
+<br>
+         
             Academically, my outstanding performance, especially in mathematics and computer science courses, proved strongtechnical and analytical aptitude. 
-            
-            Furthermore, I took many leadership roles and led projects and teamwork in Agile
-            process specifically, Scrum framework further demonstrated solid learning ability and capability to work under pressure.
-
-          As a self-learner, I enjoy being challenged and engaging with projects that require me to work outside my comfort and knowledge set. I do lots of full stack development projects both myself and in teams.
+  <br>
+          As a self-learner, I enjoy being challenged and engaged with projects that require me to work outside my comfort and knowledge set. I do lots of full stack development projects both myself and in teams.
+          <br>
           Should you have any other questions, please do not hesitate to contact me.
 
 
@@ -434,7 +436,7 @@ https://www.youtube.com/watch?v=7Gym2XVcA5A
 if($message_sent):
 ?>
 
-<h3>Thanks we wil get back to you</h3>
+<h3>Thanks! I wil get back to you.</h3>
 
 <?php
 else:
@@ -452,8 +454,6 @@ else:
 <!-- Email -->
 <div class="inputBox">
   <input 
-  
-  
   type="text" name="email" required="required">
   <span>Email </span>
 </div>
@@ -469,7 +469,7 @@ else:
 </div>
     </form>
   </div>
-  <div id="status" class="success">Success</div>
+ 
   
 </section>
 
@@ -493,10 +493,13 @@ endif;
     <h2>Add me on LinkedIn</h2>
     <br>
 
-    <h2>Let's get to know each other</h3>
+    <h2>&nbsp; &nbsp;Let's get to know each other</h3>
       <br>
-      
-      <p>Scan the QR code with your iPhone or QR code reader.</p>
+      <br>
+      <br>
+      <br>
+     
+      <p>(Scan the QR code with your iPhone or a QR code reader.)</p>
     </div>
   </div>
    
@@ -511,31 +514,33 @@ endif;
           <h1><span>N</span>egin <span>M</span>ahrang</h1>
         </div>
         <div class="social-icon">
+          
           <div class="social-item">
-            <a href="#"
+            <!-- 96px -->
+            <a href="https://www.linkedin.com/in/negin-mahrang"
+              ><img       
+               src="https://img.icons8.com/doodle/128/000000/linkedin--v2.png"
+               
+            /></a>
+          </div>
+          <div class="social-item">
+            <a href="https://github.com/neginmhg"
               ><img
-                src="https://img.icons8.com/bubbles/100/000000/facebook-new.png"
+                src="https://img.icons8.com/cute-clipart/128/000000/github.png"
             /></a>
           </div>
-          <div class="social-item">
-            <a href="#"
-              ><img
-                src="https://img.icons8.com/bubbles/100/000000/instagram-new.png"
-            /></a>
+           <div class="social-item">
+            <a href="https://www.facebook.com/negin.mahrang"
+              >
+             
+              <img src="https://img.icons8.com/doodle/192/000000/facebook-new.png"/>
+            </a>
           </div>
-          <div class="social-item">
-            <a href="#"
-              ><img src="https://img.icons8.com/bubbles/100/000000/twitter.png"
-            /></a>
-          </div>
-          <div class="social-item">
-            <a href="#"
-              ><img src="https://img.icons8.com/bubbles/100/000000/behance.png"
-            /></a>
-          </div>
+          
+         
         </div>
         <p>Made with ❤️ from California</p>
-        <p>Copyright © 2020 . All rights reserved</p>
+        <p>Copyright © 2020 . All rights reserved.</p>
       </div>
     </section>
     <!-- End Footer -->
