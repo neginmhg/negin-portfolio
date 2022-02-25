@@ -1,4 +1,4 @@
-# negin-portfolio
+# Negin Mahrang's Portfolio
 
 A simple one page website suited for my personal and portfolio projects.
 
