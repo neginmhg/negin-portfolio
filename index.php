@@ -410,7 +410,7 @@ https://www.youtube.com/watch?v=7Gym2XVcA5A
           
           <h2>Computer Science Student</h2>
           <p>
-            I am a third year Computer Science student from California State University, Sacramento.
+            I am a senior Computer Science student from California State University, Sacramento.
 
             <br>
            As a skilled leader I have proven my ability to motivate, educate, and manage a team of professionals to build software programs in Agile framework and manage our time effectively. 
