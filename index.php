@@ -148,9 +148,12 @@ $message_sent=true;
                     <div class="card-body text-center bgb1" style="height: 10px;">
                      <!-- <h1 class="skill-element" style="color: transparent;">------------------------------------------------------------------------------</h1> -->
                       <p>
-                        HTLM,CSS,
+                        HTLM,CSS,JavaScript,
+                         <br>   
+                        JavaScript Frameeworks:<br>
+                        ReactJS, NodeJs,
                       <br>    
-                  JavaScript,
+                  
              <br>
              PHP,
           <br>
@@ -380,9 +383,6 @@ npm,
               IAM, KMS, Cognito, API
               Gateway, Cloud Trail, Cloud Watch, Config, Trusted Advisor, Security Groups, NACL.</p>
               
-<!-- -----
-https://www.youtube.com/watch?v=7Gym2XVcA5A
------ -->
             
             </div>
             <div class="project-img">
@@ -410,7 +410,7 @@ https://www.youtube.com/watch?v=7Gym2XVcA5A
           
           <h2>Computer Science Student</h2>
           <p>
-            I am a senior Computer Science student from California State University, Sacramento.
+            I am a senior computer science student from California State University, Sacramento.
 
             <br>
            As a skilled leader I have proven my ability to motivate, educate, and manage a team of professionals to build software programs in Agile framework and manage our time effectively. 
